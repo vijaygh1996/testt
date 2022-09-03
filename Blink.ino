@@ -1,5 +1,5 @@
-//Prateek
-//www.prateeks.in
+//IOT
+
 
 #include <Arduino.h>
 #include <LiquidCrystal_I2C.h>
